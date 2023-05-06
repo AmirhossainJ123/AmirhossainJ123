@@ -1,4 +1,4 @@
-<h2>Hello there <img style="border-radius:20px; width: 20px; height:20px" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi"></h2>
+<h2 style="text-align: center;"><img style="border-radius:20px; width: 25px; height: 25px; transform: rotate(180deg);" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi"> Hello there <img style="border-radius:20px; width: 25px; height: 25px; transform: rotate(180deg);" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi"></h2>
 
 <!--
 **AmirhossainJ123/AmirhossainJ123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
