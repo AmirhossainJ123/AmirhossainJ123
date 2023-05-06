@@ -6,7 +6,7 @@
 </h1>
 </div>
 
-<h1>My only little social media: <a href="https://discord.gg/EhYURZghj9"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" style="border-radius:5px; width: 40px; height: 40px;" alt="soc"></a></h1>
+<h1>My only little social media: <a href="https://discord.gg/EhYURZghj9" style="padding:0px;margin:0px;"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" style="border-radius:5px; width: 40px; height: 40px;" alt="soc"></a></h1>
 
 <h1><img style="border-radius:5px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="skills"> Skills <img style="border-radius:5px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="skills">:</h3>
 
