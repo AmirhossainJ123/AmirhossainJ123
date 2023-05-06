@@ -1,13 +1,13 @@
 <div style="left:50%; transform: translateX(-50%); display: inline-block;">
-<h2 style="display: inline-block;"><img style="border-radius:20px; width: 25px; height: 25px" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi">
- Hello
+<h2 style="display: inline-block;"><img style="border-radius:20px; width: 25px; height: 25px" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi"> Hello
  <img style="border-radius:20px; width: 25px; height: 25px; transform: rotateY(180deg);" src="https://emoji.discadia.com/emojis/dd0632ac-73b9-493c-ba18-45edd0b6d0c2.GIF" alt="head">
  there
  <img style="border-radius:20px; width: 25px; height: 25px; transform: rotateY(180deg);" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" alt="hi2">
 </h2>
 </div>
 
-<h3>Looking for a Job...</h3>
+<h3><img style="border-radius:20px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="skills"> Skills:</h3>
+<h3>Looking for a job with reasonable income...</h3>
 
 <!--
 **AmirhossainJ123/AmirhossainJ123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
