@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" style="border-radius:5px; width: 40px; height: 40px;" alt="skill">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" style="border-radius:5px; width: 40px; height: 40px;" alt="skill">
 </h4>
-<h3><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="border-radius:5px; width: 80px; height: 40px;" alt="job">Looking for a job with reasonable income...</h3>
+<h3><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="border-radius:5px; width: 80px; height: 40px;" alt="job">Looking for a job with reasonable income<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="border-radius:5px; width: 80px; height: 40px;" alt="job"></h3>
 
 <!--
 **AmirhossainJ123/AmirhossainJ123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
