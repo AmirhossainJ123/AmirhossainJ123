@@ -6,7 +6,7 @@
 </h2>
 </div>
 
-<h3><img style="border-radius:20px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="skills"> Skills:</h3>
+<h3><img style="border-radius:10px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="skills"> Skills:</h3>
 <h3>Looking for a job with reasonable income...</h3>
 
 <!--
