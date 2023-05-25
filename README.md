@@ -19,6 +19,9 @@
 </h4>
 <h1><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="border-radius:5px; width: 80px; height: 40px;" alt="job">Looking for a job with reasonable income<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" style="border-radius:5px; width: 80px; height: 40px;" alt="job"></h1>
 
+<h2> PSST, check out my website at: <a>https://amirhossainj123.github.io/</a></h2>
+<h2> You can also check out, Me & Binbinuser's website or technically, electrians website!: <a>https://mcdev.studio/</a></h2>
+
 <!--
 **AmirhossainJ123/AmirhossainJ123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
